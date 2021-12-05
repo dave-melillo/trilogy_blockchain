@@ -3,5 +3,5 @@
 ---
 
 ---
-![saquan-image]('Screen Shot 2021-12-05 at 5.03.09 PM.png')
-![saquan-image]('Screen Shot 2021-12-05 at 5.03.28 PM.png')
+![saquan-image](sc1.png)
+![saquan-image](sc2.png)
