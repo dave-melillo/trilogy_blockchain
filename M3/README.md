@@ -2,7 +2,7 @@
 ## Module 3 Challenge
 ---
 
-Compiler, Deployement, Set Account and Deposit Screen Shots below. Was not able to get withdrawals to work :(
+Compiler, Deployment, Set Account and Deposit Screen Shots below. Was not able to get withdrawals to work :(
 
 ---
 ![saquan-image]('m1.png')
